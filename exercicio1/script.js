@@ -13,7 +13,6 @@ console.log (typeof nome,idade);
 //string pois tudo que vem de um prompt é uma string.
 
 console.log ("olá",nome,"você tem",idade,"anos")
-//finalizado
 
 
 
